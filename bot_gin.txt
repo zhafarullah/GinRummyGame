@@ -1,0 +1,8 @@
+10 spades
+A clubs
+6 hearts
+5 hearts
+6 diamonds
+2 diamonds
+8 diamonds
+A diamonds

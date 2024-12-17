@@ -1,0 +1,7 @@
+7 hearts
+8 diamonds
+8 clubs
+10 diamonds
+K hearts
+10 clubs
+7 clubs

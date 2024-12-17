@@ -1,0 +1,8 @@
+5 clubs
+6 clubs
+J diamonds
+7 clubs
+5 spades
+5 diamonds
+K diamonds
+Q diamonds

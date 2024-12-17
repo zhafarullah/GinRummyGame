@@ -1,0 +1,9 @@
+3 hearts
+3 spades
+3 clubs
+A diamonds
+A spades
+A hearts
+J clubs
+J diamonds
+J spades
