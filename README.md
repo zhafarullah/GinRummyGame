@@ -15,3 +15,5 @@ https://www.kaggle.com/datasets/gpiosenka/cards-image-datasetclassification
 I only use the train folder for this project.
 
 If you are looking only recognition and classification of the cards without the game, you can see it here:
+
+https://github.com/zhafarullah/CNNCardRecognition
